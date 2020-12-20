@@ -19,16 +19,16 @@ export default () => (
       <h2>
         Blazing Fast Notion Blog with Next.js'{' '}
         <ExtLink
-          href="https://github.com/vercel/next.js/issues/9524"
+          href="https://google.com/"
           className="dotted"
           style={{ color: 'inherit' }}
         >
-          SSG
+          Test
         </ExtLink>
       </h2>
 
       <Features />
-
+    
       <div className="explanation">
         <p>
           This is a statically generated{' '}
@@ -47,7 +47,7 @@ export default () => (
           blazing fast speeds, great local editing experience, and always being
           available!
         </p>
-
+    
         <p>
           Get started by creating a new page in Notion and clicking the deploy
           button below. After you supply your token and the blog index id (the
