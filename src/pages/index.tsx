@@ -15,16 +15,9 @@ export default () => (
         width="250"
         alt="Vercel + Notion"
       />
-      <h1>My Notion Blog</h1>
+      <h1>Welcome to My Wannabe Blog</h1>
       <h2>
-        Blazing Fast Notion Blog with Next.js'{' '}
-        <ExtLink
-          href="https://google.com/"
-          className="dotted"
-          style={{ color: 'inherit' }}
-        >
-          Test
-        </ExtLink>
+        A Project of Learning and Wasting Time
       </h2>
 
       <Features />
